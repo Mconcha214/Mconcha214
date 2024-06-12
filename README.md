@@ -1,5 +1,5 @@
 ## Hello there, my name is Miguel Concha.
-I am an <a href="https://linkedin.com/in/miguel-concha-80863696">IT Professional</a>☺</h1>
+I am a <a href="https://linkedin.com/in/miguel-concha-80863696">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
